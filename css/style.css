@@ -685,6 +685,7 @@ summary {
 
 .qa_submit {
 	margin-top: 1.5rem;
+	paddin-left: 5px;
 }
 
 .qa__item {
